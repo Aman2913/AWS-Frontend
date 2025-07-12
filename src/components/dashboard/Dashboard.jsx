@@ -14,7 +14,7 @@ const Dashboard = () => {
     const fetchRepositories = async () => {
       try {
         const response = await fetch(
-          `http://localhost:3002/repo/user/${userId}`
+          `http://16.16.56.225:3002/repo/user/${userId}`
         );
         const data = await response.json();
         setRepositories(data.repositories);
