@@ -39,14 +39,22 @@ Features
 
 ## 📸 Screenshots
 
+### 🔑 Login Page
+![Login Page](https://raw.githubusercontent.com/Aman2913/AWS-Frontend/main/public/1.jpg)
+
 ### 🔐 Signup Page
-![Signup Page](https://raw.githubusercontent.com/Aman2913/AWS-Frontend/main/public/1.jpg)
+![Signup Page](https://raw.githubusercontent.com/Aman2913/AWS-Frontend/main/public/2.jpg)
 
-### 🧑‍💻 Dashboard
-![Dashboard](https://raw.githubusercontent.com/Aman2913/AWS-Frontend/main/public/2.jpg)
+### 📊 Dashboard
+![Dashboard](https://raw.githubusercontent.com/Aman2913/AWS-Frontend/main/public/3.jpg)
 
-### 👤 Profile Page
-![Profile Page](https://raw.githubusercontent.com/Aman2913/AWS-Frontend/main/public/3.jpg)
+### 👤 Profile
+![Profile Page](https://raw.githubusercontent.com/Aman2913/AWS-Frontend/main/public/4.jpg)
+
+### 🚀 Deployment Preview (AWS Amplify)
+![Deployment](https://raw.githubusercontent.com/Aman2913/AWS-Frontend/main/public/6.jpg)
+
+
 
 
 ## 📦 Build & Deploy (Amplify)
