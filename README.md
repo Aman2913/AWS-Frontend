@@ -45,8 +45,7 @@ Features
 ## 📦 Build & Deploy (Amplify)
 Amplify automatically deploys from this GitHub repo upon each push to main.
 
-## 🧑‍💻 Author
-## Aman Kumar Verma
-## 📧 amanverma00199900@gmail.com
-## 🔗 GitHub
+## 🧑‍💻 Author : Aman Kumar Verma
+📧 amanverma00199900@gmail.com
+🔗 GitHub
 
