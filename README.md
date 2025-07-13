@@ -2,11 +2,6 @@
 
 This is the frontend part of the **SyncBit** project, built with **React** and deployed using **AWS Amplify**.
 
-## 🌐 Live Demo
-[https://main.d1pymvug46oz8v.amplifyapp.com](https://main.d1pymvug46oz8v.amplifyapp.com)
-
----
-
 ## 🛠 Tech Stack
 
 - ⚛️ React
@@ -41,6 +36,18 @@ Features
 📊 Heatmap contributions
 
 🐛 Issues tracking per repo
+
+## 📸 Screenshots
+
+### 🔐 Signup Page
+![Signup Page](https://raw.githubusercontent.com/Aman2913/AWS-Frontend/main/public/1.jpg)
+
+### 🧑‍💻 Dashboard
+![Dashboard](https://raw.githubusercontent.com/Aman2913/AWS-Frontend/main/public/2.jpg)
+
+### 👤 Profile Page
+![Profile Page](https://raw.githubusercontent.com/Aman2913/AWS-Frontend/main/public/3.jpg)
+
 
 ## 📦 Build & Deploy (Amplify)
 Amplify automatically deploys from this GitHub repo upon each push to main.
